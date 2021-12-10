@@ -1,4 +1,4 @@
-# MLTutorial
+# Recurso artículo final Computación Científica y analítica
 
 Presentado por: Fredy Vaquiro
 
